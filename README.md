@@ -9,7 +9,7 @@
 - **URL Obfuscation**: Morphos can apply obfuscation techniques to existing URLs, such as adding subdirectories, parameters, and URL fragments.
 - **Hidden Redirection**: The script allows users to redirect to websites controlled by an auditor.
 - **Cross-Platform Compatibility**: Morphos works on all operating systems, including Windows, macOS, and Linux, via Python.
-- **Easy to Use**: he command-line interface simplifies the tool's usage.
+- **Easy to Use**: the command-line interface simplifies the tool's usage.
 
 ## Usage
 
