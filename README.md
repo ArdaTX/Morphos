@@ -1,6 +1,5 @@
 
 [![N|Morphos](https://github.com/ArdaTX/Morphos/blob/main/morphosb.png)](https://github.com/ArdaTX/Morphos)
-                                                                  
 <img src="https://github.com/ArdaTX/Morphos/blob/main/orug.png" width="250" height="250" />
 # Morphos - Python URL Morphing Script
 
