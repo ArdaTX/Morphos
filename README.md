@@ -4,8 +4,8 @@
   </a>
   <img src="https://github.com/ArdaTX/Morphos/blob/main/orug.png" width="250" height="250" alt="orug">
 </p>
-# Morphos - Python URL Morphing Script
 
+# Morphos - Python URL Morphing Script
 **Morphos**  is a Python script designed to obfuscate and transform URLs with the aim of facilitating phishing campaigns and red teaming activities. This tool allows you to create modified versions of legitimate URLs that can be used to hide the final endpoint in a web address.
 
 ## Features
